@@ -1,6 +1,6 @@
 🟢Live view Available at Tableau Public: https://public.tableau.com/app/profile/sanjey.gm/viz/AmazonDashboard_17149776907990/Dashboard
 
-🟢LinkedIn post : coming soon
+🟢LinkedIn post : https://www.linkedin.com/posts/sanjeygm_datavista-dashboarddesign-dataanalytics-activity-7313538054772637696-Nd-6?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD75U8MBPocF-gJVTvrZWssxgZAGhlUJ7J0
 
 🟢Message me in LinkedIn if u have any doubts / need figma file - https://www.linkedin.com/in/sanjeygm/
 
